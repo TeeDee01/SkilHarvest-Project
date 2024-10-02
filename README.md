@@ -2,11 +2,11 @@
 
 ## Table of Outline
 ## [Project Overview](#project-overview)
-## Data Sources
+## [Data Sources](#data-sources)
 ## [Tools Used](#tools-used)
-## Data Cleaning and Preparation
-## Exploratory Data Analysis
-## Data Analysis
+## [Data Cleaning and Preparation](data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Data Analysis](data-analysis)
 
 
 ### Project Overview

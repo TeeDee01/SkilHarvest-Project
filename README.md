@@ -8,7 +8,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
 ### Tools Used
 
-- Ms Excel [Download Here](https:/www.microsoft.com)
+- Ms Excel [Download Here](https://www.microsoft.com)
   1. This is majorly the tool used for our Analysis
   2. It help us to pivot and analyse our Data
 - Microsoft Power Bi

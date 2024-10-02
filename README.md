@@ -37,3 +37,8 @@ WHERE CONDITION = TRUE
 ```
 
 
+![Bar Cahrt](https://github.com/user-attachments/assets/5bf7aec2-4729-4cae-9194-b4d98153328a)
+
+![images](https://github.com/user-attachments/assets/a545b116-acc0-41c0-b6fd-9f2ca84a1453)
+
+
